@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DCN/.idea/DCN.iml" filepath="$PROJECT_DIR$/../DCN/.idea/DCN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LSTM/.idea/LiMu.iml" filepath="$PROJECT_DIR$/../LSTM/.idea/LiMu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TDAN-VSR-CVPR-2020-master/.idea/TDAN-VSR-CVPR-2020-master.iml" filepath="$PROJECT_DIR$/../TDAN-VSR-CVPR-2020-master/.idea/TDAN-VSR-CVPR-2020-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../opencv-1/.idea/opencv-1.iml" filepath="$PROJECT_DIR$/../opencv-1/.idea/opencv-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytorch/.idea/pytorch.iml" filepath="$PROJECT_DIR$/../pytorch/.idea/pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytorch_rnn/.idea/pytorch_rnn.iml" filepath="$PROJECT_DIR$/../pytorch_rnn/.idea/pytorch_rnn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zizhishuju.iml" filepath="$PROJECT_DIR$/.idea/zizhishuju.iml" />
+      <module fileurl="file://D:/吉林测试代码/.idea/吉林测试代码.iml" filepath="D:/吉林测试代码/.idea/吉林测试代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../测绘程序-python/.idea/测绘程序-python.iml" filepath="$PROJECT_DIR$/../测绘程序-python/.idea/测绘程序-python.iml" />
+    </modules>
+  </component>
+</project>

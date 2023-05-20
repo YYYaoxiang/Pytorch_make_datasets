@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (pvc) (3)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="DCN" />
+    <orderEntry type="module" module-name="LiMu" />
+    <orderEntry type="module" module-name="测绘程序-python" />
+    <orderEntry type="module" module-name="吉林测试代码" />
+    <orderEntry type="module" module-name="pytorch" />
+    <orderEntry type="module" module-name="opencv-1" />
+    <orderEntry type="module" module-name="pytorch_rnn" />
+    <orderEntry type="module" module-name="TDAN-VSR-CVPR-2020-master" />
+  </component>
+</module>
